@@ -1,9 +1,9 @@
-﻿using Damilah_School_Subject_App.Domain;
-using Damilah_School_Subject_App.Repository.Interface;
-using Damilah_School_Subject_App.Service.Interface;
+﻿using School_Subjects_Listing_System.Domain;
+using School_Subjects_Listing_System.Repository.Interface;
+using School_Subjects_Listing_System.Service.Interface;
 
 
-namespace Damilah_School_Subject_App.Service.Implementation
+namespace School_Subjects_Listing_System.Service.Implementation
 {
     public class SubjectService : ISubjectService
     {

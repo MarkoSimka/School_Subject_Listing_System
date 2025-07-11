@@ -1,4 +1,4 @@
-﻿namespace Damilah_School_Subject_App.Domain
+﻿namespace School_Subjects_Listing_System.Domain
 {
     public class LiteratureUsed : BaseEntity
     {

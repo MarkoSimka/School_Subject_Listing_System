@@ -1,8 +1,8 @@
-﻿using Damilah_School_Subject_App.Config;
-using Damilah_School_Subject_App.Service.Interface;
+﻿using School_Subjects_Listing_System.Config;
+using School_Subjects_Listing_System.Service.Interface;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Damilah_School_Subject_App
+namespace School_Subjects_Listing_System
 {
     internal class Program(ISubjectService subjectService)
     {

@@ -1,11 +1,11 @@
-﻿using Damilah_School_Subject_App.Repository.Implementation;
-using Damilah_School_Subject_App.Repository.Interface;
-using Damilah_School_Subject_App.Service.Implementation;
-using Damilah_School_Subject_App.Service.Interface;
+﻿using School_Subjects_Listing_System.Repository.Implementation;
+using School_Subjects_Listing_System.Repository.Interface;
+using School_Subjects_Listing_System.Service.Implementation;
+using School_Subjects_Listing_System.Service.Interface;
 using Microsoft.Extensions.DependencyInjection;
-using static Damilah_School_Subject_App.Config.DbConfigure;
+using static School_Subjects_Listing_System.Config.DbConfigure;
 
-namespace Damilah_School_Subject_App.Config
+namespace School_Subjects_Listing_System.Config
 {
     public class StartupServiceProvider
     {

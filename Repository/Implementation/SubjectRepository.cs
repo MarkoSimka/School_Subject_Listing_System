@@ -1,8 +1,8 @@
-﻿using Damilah_School_Subject_App.Domain;
-using Damilah_School_Subject_App.Repository.Interface;
+﻿using School_Subjects_Listing_System.Domain;
+using School_Subjects_Listing_System.Repository.Interface;
 using Dapper;
 using Npgsql;
-namespace Damilah_School_Subject_App.Repository.Implementation
+namespace School_Subjects_Listing_System.Repository.Implementation
 {
     public class SubjectRepository : ISubjectRepository
     {

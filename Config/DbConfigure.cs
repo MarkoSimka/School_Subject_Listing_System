@@ -1,4 +1,4 @@
-﻿namespace Damilah_School_Subject_App.Config
+﻿namespace School_Subjects_Listing_System.Config
 {
     static class DbConfigure
     {
