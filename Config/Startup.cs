@@ -3,7 +3,7 @@ using Damilah_School_Subject_App.Repository.Interface;
 using Damilah_School_Subject_App.Service.Implementation;
 using Damilah_School_Subject_App.Service.Interface;
 using Microsoft.Extensions.DependencyInjection;
-using static Damilah_School_Subject_App.Config.DbConstants;
+using static Damilah_School_Subject_App.Config.DbConfigure;
 
 namespace Damilah_School_Subject_App.Config
 {
