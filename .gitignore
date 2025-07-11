@@ -1,0 +1,28 @@
+﻿﻿# Build and binary files
+/bin/
+/obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VSCode or JetBrains Rider
+.vscode/
+.idea/
+.vs/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Dotnet environment stuff
+*.dbmdl
+*.log
+*.pdb
+*.cache
+
+# Don't commit local JSON/test files or backups
+*.json.bak
+*.old
