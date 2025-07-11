@@ -1,6 +1,6 @@
-﻿using Damilah_School_Subject_App.Domain;
+﻿using School_Subjects_Listing_System.Domain;
 
-namespace Damilah_School_Subject_App.Service.Interface
+namespace School_Subjects_Listing_System.Service.Interface
 {
     public interface IExternalApiHandlerService
     {

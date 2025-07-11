@@ -1,9 +1,9 @@
-﻿using Damilah_School_Subject_App.Domain;
-using Damilah_School_Subject_App.Service.Interface;
+﻿using School_Subjects_Listing_System.Domain;
+using School_Subjects_Listing_System.Service.Interface;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Damilah_School_Subject_App.Service.Implementation
+namespace School_Subjects_Listing_System.Service.Implementation
 {
     public class ExternalApiHandlerService : IExternalApiHandlerService
     {

@@ -1,6 +1,6 @@
-﻿using Damilah_School_Subject_App.Domain;
+﻿using School_Subjects_Listing_System.Domain;
 
-namespace Damilah_School_Subject_App.Repository.Interface
+namespace School_Subjects_Listing_System.Repository.Interface
 {
     public interface ISubjectRepository
     {
