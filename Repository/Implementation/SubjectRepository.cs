@@ -24,7 +24,7 @@ namespace Damilah_School_Subject_App.Repository.Implementation
                             s.""NumberOfWeeklyClasses"",
                             l.*
                         FROM
-                            ""Subjects"" s
+                            ""Subject"" s
                         LEFT JOIN
                             ""LiteratureUsed"" l ON s.""Id"" = l.""SubjectId"";";
 
