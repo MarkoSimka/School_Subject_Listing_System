@@ -44,10 +44,10 @@ Each subject includes:
 ## Architecture Diagrams
 
 ### Use Case Diagram
-![UseCase1](https://github.com/MarkoSimka/SchoolSubjectApp/assets/63017129/c2ba3987-393b-49b5-bd21-764d25110225)
+
 
 ### Class Diagram
-![ClassDiagram](https://github.com/MarkoSimka/SchoolSubjectApp/assets/63017129/03572da6-8621-4440-8359-54924eab3c9c)
+
 
 ## Getting Started
 
